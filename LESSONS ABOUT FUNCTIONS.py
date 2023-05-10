@@ -3,12 +3,12 @@
 # Indentation is used to indicate what statements are included inside a function. 
 
 # Creating Function
-# Syntax: def.function_name(); #Do Something 
+# Syntax: def.function_name(): #Do Something 
 def sayHello():
     print("Hello!")
 
 # Calling a Function
-# Syntax: def.function_name(); #Do Something function_name()
+# Syntax: def.function_name(): #Do Something function_name()
 def sayHello():
     print("Hello!") 
 sayHello()
