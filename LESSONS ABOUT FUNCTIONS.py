@@ -31,7 +31,7 @@ def sayHello(firstname,lastname):
     print("Hello, " + firstname + " " + lastname)
 sayHello("Anna", "Olavides")
 
-# Return Values is a value returned after a Frunction is done executing it is used to get results from a function that computes or does something that needs a result. 
+# Return Values is a value returned after a Function is done executing it is used to get results from a function that computes or does something that needs a result. 
 # Syntax: def function_name(parameters) return value function_name(paramater)
 # Example 1
 def add(numOne,numTwo):
